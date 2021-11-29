@@ -4,10 +4,14 @@
 
 ## 🎨 Art
 
-* [The First Generation](art/the-first-generation.md)
+* [The First Generation](art/the-first-generation/README.md)
+  * [The Comics](art/the-first-generation/the-comics.md)
 * [The Champions](art/the-champions.md)
 
-## 💻 Development
+## Development
 
-* [Dev Stuffs](development/dev-stuffs/README.md)
-  * [dev stuffs](development/dev-stuffs/dev-stuffs.md)
+* [NFT Integration](development/nft-integration.md)
+* [Mango "Troll" Box](development/mango-troll-box.md)
+* [Mango Bets](development/mango-bets.md)
+* [Mango Heroes Dex](development/mango-heroes-dex.md)
+* ["The Island"](development/the-island.md)
