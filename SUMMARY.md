@@ -1,14 +1,23 @@
 # Table of contents
 
-* [What is the Mango Heroes Project?](README.md)
+* [Page 1](README.md)
+* [What is the Mango Heroes Project?](<README (1).md>)
+
+## 📜 Lore
+
+* [The Island](lore/the-island.md)
+* [The Powers](lore/the-powers.md)
+* [The Originals](lore/the-originals.md)
 
 ## 🎨 Art
 
 * [The First Generation](art/the-first-generation/README.md)
+  * [The Bosses](art/the-first-generation/the-bosses.md)
   * [The Comics](art/the-first-generation/the-comics.md)
+  * [The Space Monks](art/the-first-generation/the-space-monks.md)
 * [The Champions](art/the-champions.md)
 
-## Development
+## 💻 Development
 
 * [NFT Integration](development/nft-integration.md)
 * [Mango "Troll" Box](development/mango-troll-box.md)
