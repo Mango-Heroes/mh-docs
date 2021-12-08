@@ -44,3 +44,7 @@
 * [DeFi Protocols](collaboration/defi-protocols/README.md)
   * [Socean Finance](collaboration/defi-protocols/socean-finance.md)
   * [Marinade Finance](collaboration/defi-protocols/marinade-finance.md)
+
+***
+
+* [Merchandise](merchandise.md)
