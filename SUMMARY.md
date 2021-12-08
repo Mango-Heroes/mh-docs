@@ -16,11 +16,12 @@
 
 * [The Early Art Concepts](art/the-early-art-concepts.md)
 * [The First Generation](art/the-first-generation/README.md)
-  * [Travis D Collection](art/the-first-generation/travis-d-collection.md)
-  * [The Bosses](art/the-first-generation/the-bosses.md)
-  * [The Comics](art/the-first-generation/the-comics.md)
-  * [The Space Monks](art/the-first-generation/the-space-monks.md)
-* [The Champions](art/the-champions.md)
+  * [One of One](art/the-first-generation/one-of-one/README.md)
+    * [Travis D Collection](art/the-first-generation/one-of-one/travis-d-collection.md)
+    * [The Bosses](art/the-first-generation/one-of-one/the-bosses.md)
+    * [The Comics](art/the-first-generation/one-of-one/the-comics.md)
+    * [The Space Monks](art/the-first-generation/one-of-one/the-space-monks.md)
+* [The 2nd Generation: The Champions](art/the-2nd-generation-the-champions.md)
 
 ## 💻 Development
 

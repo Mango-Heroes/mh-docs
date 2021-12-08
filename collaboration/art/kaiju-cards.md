@@ -4,4 +4,6 @@
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](../../.gitbook/assets/kaijutrait.png)dsffsffnsnf fn snsfn,s,
+
+
+![](../../.gitbook/assets/kaijutrait.png)

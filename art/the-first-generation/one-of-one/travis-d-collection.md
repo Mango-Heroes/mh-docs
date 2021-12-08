@@ -8,4 +8,4 @@ Check out Travis [https://twitter.com/Travisdartist](https://twitter.com/Travisd
 
 {% embed url="https://youtu.be/8w59-vUbCW4" %}
 
-![](../../.gitbook/assets/MH-Concept-Sheet.png)![](../../.gitbook/assets/MH-Concept-Halloween-r2.jpg)
+![](../../../.gitbook/assets/MH-Concept-Sheet.png)![](../../../.gitbook/assets/MH-Concept-Halloween-r2.jpg)
