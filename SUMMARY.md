@@ -20,25 +20,31 @@
 ## 🎨 Art
 
 * [1⃣ The First Generation](art/the-first-generation/README.md)
+  * [Agents of M.A.N.G.O](art/the-first-generation/agents-of-m.a.n.g.o.md)
+  * [Ronin](art/the-first-generation/ronin.md)
+  * [Honorary Mangos](art/the-first-generation/honorary-mangos.md)
   * [One of One](art/the-first-generation/one-of-one/README.md)
+    * [The Golden Mango](art/the-first-generation/one-of-one/the-golden-mango.md)
     * [Travis D Collection](art/the-first-generation/one-of-one/travis-d-collection.md)
     * [The Bosses](art/the-first-generation/one-of-one/the-bosses.md)
     * [The Comics](art/the-first-generation/one-of-one/the-comics.md)
-    * [The Space Monks](art/the-first-generation/one-of-one/the-space-monks.md)
+    * [The Space Monks](art/the-first-generation/one-of-one/the-space-monks/README.md)
+      * [The Dark Lord](art/the-first-generation/one-of-one/the-space-monks/the-dark-lord.md)
 * [2⃣ The Champions](art/the-champions.md)
 
 ## 💻 Development
 
-* [NFT Integration](development/nft-integration.md)
-* [Mango "Troll" Box](development/mango-troll-box.md)
+* [Mango Markets](development/mango-markets/README.md)
+  * [NFT Integration into Mango Markets](development/mango-markets/nft-integration-into-mango-markets.md)
+  * [Mango Markets "Troll" Box](development/mango-markets/mango-markets-troll-box.md)
 * [Mango Bets](development/mango-bets.md)
 * [Mango Heroes Dex](development/mango-heroes-dex.md)
-* [The Island "Game"](development/the-island-game/README.md)
-  * [The Casino](development/the-island-game/the-casino/README.md)
-    * [Betting Mechanism](development/the-island-game/the-casino/betting-mechanism.md)
-  * [The Boxing Ring](development/the-island-game/the-boxing-ring.md)
-  * [The Basketball Court](development/the-island-game/the-basketball-court.md)
-  * [Mango Island Development Journal](development/the-island-game/mango-island-development-journal.md)
+* [Zìyóu](development/ziyou/README.md)
+  * [The Casino](development/ziyou/the-casino/README.md)
+    * [Betting Mechanism](development/ziyou/the-casino/betting-mechanism.md)
+  * [The Boxing Ring](development/ziyou/the-boxing-ring.md)
+  * [The Basketball Court](development/ziyou/the-basketball-court.md)
+  * [Mango Island Development Journal](development/ziyou/mango-island-development-journal.md)
 
 ## 🤝 Collaboration
 
@@ -53,4 +59,4 @@
 
 ***
 
-* [Merchandise](merchandise.md)
+* [👕 Merchandise](merchandise.md)

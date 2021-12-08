@@ -1,5 +1,9 @@
 # 👨🍳 Marinade Finance
 
+{% embed url="https://marinade.finance" %}
+
+![](<../../.gitbook/assets/Untitled design (1).png>)
+
 {% embed url="https://twitter.com/YohanGGlobal/status/1460381377724092420?s=20" %}
 
 {% embed url="https://forum.mango.markets/t/token-listing-msol/238" %}
@@ -14,7 +18,7 @@ Token Listing mSOL on Mango Markets Vote
 
 #### Concepts
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (9).png>)![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (9) (1).png>)![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (7).png>)
 
 #### Final Chefs
 
@@ -26,4 +30,5 @@ Token Listing mSOL on Mango Markets Vote
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-![](<../../.gitbook/assets/image (10).png>)
+![This one was given to https://twitter.com/aeyakovenko](<../../.gitbook/assets/image (10) (1).png>)
+
