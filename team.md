@@ -2,13 +2,15 @@
 
 ### The Brain Trust
 
-![https://twitter.com/TheBrainTrust\_\_](.gitbook/assets/image.png)
+![https://twitter.com/TheBrainTrust\_\_](<.gitbook/assets/image (1).png>)
 
 {% embed url="https://tbtbraintrust.medium.com/intro-to-the-brain-trust-7444088fccab" %}
 
 ### Graphic Artists
 
-![https://twitter.com/etsploit](<.gitbook/assets/Untitled design (39).png>)
+![https://twitter.com/etsploit](.gitbook/assets/et.png)
+
+![https://twitter.com/mzdewq](.gitbook/assets/image.png)
 
 ### Developers
 
