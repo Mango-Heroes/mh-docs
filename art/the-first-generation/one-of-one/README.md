@@ -1,13 +1,21 @@
 # One of One
 
-{% content-ref url="../../../collaboration/art/kaiju-cards.md" %}
-[kaiju-cards.md](../../../collaboration/art/kaiju-cards.md)
+{% content-ref url="the-space-monks.md" %}
+[the-space-monks.md](the-space-monks.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../collaboration/art/famous-fox-federation.md" %}
-[famous-fox-federation.md](../../../collaboration/art/famous-fox-federation.md)
+{% content-ref url="the-comics.md" %}
+[the-comics.md](the-comics.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../collaboration/art/thug-birdz.md" %}
-[thug-birdz.md](../../../collaboration/art/thug-birdz.md)
+{% content-ref url="the-bosses.md" %}
+[the-bosses.md](the-bosses.md)
+{% endcontent-ref %}
+
+{% content-ref url="travis-d-collection.md" %}
+[travis-d-collection.md](travis-d-collection.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../collaboration/art-collabs/" %}
+[art-collabs](../../../collaboration/art-collabs/)
 {% endcontent-ref %}

@@ -9,12 +9,16 @@
 ## 📜 Lore
 
 * [🏝 The Island](lore/the-island.md)
-* [The Powers](lore/the-powers.md)
-* [The Originals](lore/the-originals.md)
+* [🪄 The Powers](lore/the-powers.md)
+* [🟠 The Originals](lore/the-originals.md)
+* [Queen Dasheri](lore/queen-dasheri.md)
+* [Dunzai](lore/dunzai.md)
+* [King](lore/king.md)
+* [The Seers](lore/the-seers.md)
+* [Hapu](lore/hapu.md)
 
 ## 🎨 Art
 
-* [The Early Art Concepts](art/the-early-art-concepts.md)
 * [The First Generation](art/the-first-generation/README.md)
   * [One of One](art/the-first-generation/one-of-one/README.md)
     * [Travis D Collection](art/the-first-generation/one-of-one/travis-d-collection.md)
@@ -38,10 +42,10 @@
 
 ## 🤝 Collaboration
 
-* [Art](collaboration/art/README.md)
-  * [Famous Fox Federation](collaboration/art/famous-fox-federation.md)
-  * [Kaiju Cards](collaboration/art/kaiju-cards.md)
-  * [Thug Birdz](collaboration/art/thug-birdz.md)
+* [Art Collabs](collaboration/art-collabs/README.md)
+  * [Famous Fox Federation](collaboration/art-collabs/famous-fox-federation.md)
+  * [Kaiju Cards](collaboration/art-collabs/kaiju-cards.md)
+  * [Thug Birdz](collaboration/art-collabs/thug-birdz.md)
 * [DeFi Protocols](collaboration/defi-protocols/README.md)
   * [Socean Finance](collaboration/defi-protocols/socean-finance.md)
   * [Marinade Finance](collaboration/defi-protocols/marinade-finance.md)
