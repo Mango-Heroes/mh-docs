@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🤔 What is the Mango Heroes Project?](README.md)
-* [🤝 Team](team.md)
+* [🤝 Project Team](project-team.md)
 * [🏗 Work Plan Updates](work-plan-updates.md)
 * [⁉ Frequently Asked Questions](<README (1).md>)
 * [📃 Rarity Catalogue](rarity-catalogue.md)
