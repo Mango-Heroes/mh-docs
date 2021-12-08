@@ -33,6 +33,7 @@
     * [Betting Mechanism](development/the-island-game/the-casino/betting-mechanism.md)
   * [The Boxing Ring](development/the-island-game/the-boxing-ring.md)
   * [The Basketball Court](development/the-island-game/the-basketball-court.md)
+  * [Mango Island Development Journal](development/the-island-game/mango-island-development-journal.md)
 
 ## 🤝 Collaboration
 
