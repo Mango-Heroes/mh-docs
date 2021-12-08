@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Frequently Asked Questions](README.md)
 * [What is the Mango Heroes Project?](<README (1).md>)
 
 ## 📜 Lore
@@ -23,4 +23,5 @@
 * [Mango "Troll" Box](development/mango-troll-box.md)
 * [Mango Bets](development/mango-bets.md)
 * [Mango Heroes Dex](development/mango-heroes-dex.md)
-* ["The Island"](development/the-island.md)
+* ["The Island"](development/the-island/README.md)
+  * [Casino](development/the-island/casino.md)
