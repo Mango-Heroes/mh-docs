@@ -1,22 +1,13 @@
 ---
 description: >-
-  The Mango Heroes project started out with the sole aim to create NFT art for
-  the Mango Markets Protocol. You can read a little bit more about that story
-  here:
+  Mango Heroes is a Solana NFT project that grew into something bigger than just
+  JPEGs
 ---
 
-# What is the Mango Heroes Project?
+# 🤔 What is the Mango Heroes Project?
 
-wfweffdfsfs
+The sole aim of the Mango Heroes Project in the beginning was to simply make Mango NFT art for the Mango Markets protocol. That quickly morphed and evolved into something bigger, something more.
 
-sdfsdfdsdfdffsdf
+&#x20;You can read more about that here:&#x20;
 
-sd
-
-fsf
-
-s
-
-d
-
-fsd
+{% embed url="https://medium.com/mango-heroes/how-the-mango-heroes-project-was-born-full-transparency-87e53388bbc" %}
