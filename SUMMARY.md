@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Frequently Asked Questions](README.md)
-* [What is the Mango Heroes Project?](<README (1).md>)
+* [What is the Mango Heroes Project?](README.md)
+* [Frequently Asked Questions](<README (1).md>)
 
 ## 📜 Lore
 
@@ -24,4 +24,7 @@
 * [Mango Bets](development/mango-bets.md)
 * [Mango Heroes Dex](development/mango-heroes-dex.md)
 * ["The Island"](development/the-island/README.md)
-  * [Casino](development/the-island/casino.md)
+  * [The Casino](development/the-island/the-casino/README.md)
+    * [Betting Mechanism](development/the-island/the-casino/betting-mechanism.md)
+  * [The Boxing Ring](development/the-island/the-boxing-ring.md)
+  * [The Basketball Court](development/the-island/the-basketball-court.md)
