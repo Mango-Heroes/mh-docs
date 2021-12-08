@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🤔 What is the Mango Heroes Project?](README.md)
+* [Mint](mint.md)
 * [🤝 Project Team](team.md)
 * [🏗 Work Plan Updates](work-plan-updates.md)
 * [⁉ Frequently Asked Questions](<README (1).md>)
