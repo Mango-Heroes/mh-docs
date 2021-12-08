@@ -1,4 +1,4 @@
-# Famous Fox Federation
+# 🦊 Famous Fox Federation
 
 [https://famousfoxes.com/](https://famousfoxes.com)
 

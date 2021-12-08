@@ -1,2 +1,2 @@
-# Socean Finance
+# 🌊 Socean Finance
 

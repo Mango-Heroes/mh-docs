@@ -2,6 +2,6 @@
 description: The Mango Whale
 ---
 
-# Hapu
+# 🐋 Hapu
 
 {% embed url="https://youtu.be/Ke4-EadX_VY" %}

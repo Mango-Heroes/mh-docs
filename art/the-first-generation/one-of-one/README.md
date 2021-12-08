@@ -16,6 +16,6 @@
 [travis-d-collection.md](travis-d-collection.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../collaboration/art-collabs/" %}
-[art-collabs](../../../collaboration/art-collabs/)
+{% content-ref url="../../../collaboration/nft-collabs/" %}
+[nft-collabs](../../../collaboration/nft-collabs/)
 {% endcontent-ref %}

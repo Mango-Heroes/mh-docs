@@ -10,7 +10,7 @@
 
 #### The Brain Trust
 
-![TBT https://twitter.com/TheBrainTrust\_\_](<.gitbook/assets/image (1).png>)
+![TBT https://twitter.com/TheBrainTrust\_\_](<.gitbook/assets/image (1) (1).png>)
 
 {% embed url="https://tbtbraintrust.medium.com/intro-to-the-brain-trust-7444088fccab" %}
 

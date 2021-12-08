@@ -9,23 +9,23 @@
 ## 📜 Lore
 
 * [🏝 The Island](lore/the-island.md)
-* [🪄 The Powers](lore/the-powers.md)
+* [🪄 The Power](lore/the-power.md)
 * [🟠 The Originals](lore/the-originals.md)
-* [Queen Dasheri](lore/queen-dasheri.md)
-* [Dunzai](lore/dunzai.md)
-* [King](lore/king.md)
-* [The Seers](lore/the-seers.md)
-* [Hapu](lore/hapu.md)
+* [👑 Queen Dasheri](lore/queen-dasheri.md)
+* [🕵♂ Dunzai](lore/dunzai.md)
+* [👑 King](lore/king.md)
+* [👁🗨 The Seers](lore/the-seers.md)
+* [🐋 Hapu](lore/hapu.md)
 
 ## 🎨 Art
 
-* [The First Generation](art/the-first-generation/README.md)
+* [1⃣ The First Generation](art/the-first-generation/README.md)
   * [One of One](art/the-first-generation/one-of-one/README.md)
     * [Travis D Collection](art/the-first-generation/one-of-one/travis-d-collection.md)
     * [The Bosses](art/the-first-generation/one-of-one/the-bosses.md)
     * [The Comics](art/the-first-generation/one-of-one/the-comics.md)
     * [The Space Monks](art/the-first-generation/one-of-one/the-space-monks.md)
-* [The 2nd Generation: The Champions](art/the-2nd-generation-the-champions.md)
+* [2⃣ The Champions](art/the-champions.md)
 
 ## 💻 Development
 
@@ -42,13 +42,14 @@
 
 ## 🤝 Collaboration
 
-* [Art Collabs](collaboration/art-collabs/README.md)
-  * [Famous Fox Federation](collaboration/art-collabs/famous-fox-federation.md)
-  * [Kaiju Cards](collaboration/art-collabs/kaiju-cards.md)
-  * [Thug Birdz](collaboration/art-collabs/thug-birdz.md)
+* [NFT Collabs](collaboration/nft-collabs/README.md)
+  * [🤖 Rumble Worlds](collaboration/nft-collabs/rumble-worlds.md)
+  * [🦊 Famous Fox Federation](collaboration/nft-collabs/famous-fox-federation.md)
+  * [🐟 Kaiju Cards](collaboration/nft-collabs/kaiju-cards.md)
+  * [😎 Thug Birdz](collaboration/nft-collabs/thug-birdz.md)
 * [DeFi Protocols](collaboration/defi-protocols/README.md)
-  * [Socean Finance](collaboration/defi-protocols/socean-finance.md)
-  * [Marinade Finance](collaboration/defi-protocols/marinade-finance.md)
+  * [🌊 Socean Finance](collaboration/defi-protocols/socean-finance.md)
+  * [👨🍳 Marinade Finance](collaboration/defi-protocols/marinade-finance.md)
 
 ***
 
