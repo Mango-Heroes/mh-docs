@@ -34,13 +34,12 @@
   * [The Boxing Ring](development/the-island-game/the-boxing-ring.md)
   * [The Basketball Court](development/the-island-game/the-basketball-court.md)
 
-***
+## 🤝 Collaboration
 
-* [Collaborations](collaborations/README.md)
-  * [DeFi Protocols](collaborations/defi-protocols/README.md)
-    * [Socean Finance](collaborations/defi-protocols/socean-finance.md)
-    * [Marinade Finance](collaborations/defi-protocols/marinade-finance.md)
-  * [Art](collaborations/art/README.md)
-    * [Famous Fox Federation](collaborations/art/famous-fox-federation.md)
-    * [Kaiju Cards](collaborations/art/kaiju-cards.md)
-    * [Thug Birdz](collaborations/art/thug-birdz.md)
+* [Art](collaboration/art/README.md)
+  * [Famous Fox Federation](collaboration/art/famous-fox-federation.md)
+  * [Kaiju Cards](collaboration/art/kaiju-cards.md)
+  * [Thug Birdz](collaboration/art/thug-birdz.md)
+* [DeFi Protocols](collaboration/defi-protocols/README.md)
+  * [Socean Finance](collaboration/defi-protocols/socean-finance.md)
+  * [Marinade Finance](collaboration/defi-protocols/marinade-finance.md)

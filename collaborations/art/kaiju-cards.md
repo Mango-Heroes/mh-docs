@@ -1,2 +1,0 @@
-# Kaiju Cards
-
