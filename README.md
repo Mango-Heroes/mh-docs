@@ -6,6 +6,10 @@ description: >-
 
 # 🤔 What is the Mango Heroes Project?
 
+![](<.gitbook/assets/Untitled (1920 x 1080 px) (1).png>)
+
+
+
 The sole aim of the Mango Heroes Project in the beginning was to simply make Mango NFT art for the Mango Markets protocol.&#x20;
 
 That quickly morphed and evolved into something bigger, something more.

@@ -12,9 +12,10 @@
 * [🏝 The Island](lore/the-island.md)
 * [🪄 The Power](lore/the-power.md)
 * [🟠 The Originals](lore/the-originals.md)
-* [👑 Queen Dasheri](lore/queen-dasheri.md)
 * [🕵♂ Dunzai](lore/dunzai.md)
-* [👑 King](lore/king.md)
+* [👑 The Royals](lore/the-royals/README.md)
+  * [👑 King](lore/the-royals/king.md)
+  * [👑 Queen Dasheri](lore/the-royals/queen-dasheri.md)
 * [👁🗨 The Seers](lore/the-seers.md)
 * [🐋 Hapu](lore/hapu.md)
 
