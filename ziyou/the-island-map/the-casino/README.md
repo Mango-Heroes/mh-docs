@@ -1,3 +1,3 @@
-# Casino
+# 💰 The Casino
 
 {% embed url="https://youtu.be/EbLFVWmecJY" %}

@@ -1,4 +1,4 @@
-# Mint
+# 🖨 Mint
 
 The mint is still live here: [https://mangoheroes.com/](https://mangoheroes.com)
 

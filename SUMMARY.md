@@ -1,11 +1,12 @@
 # Table of contents
 
 * [🤔 What is the Mango Heroes Project?](README.md)
-* [Mint](mint.md)
+* [🖨 Mint](mint.md)
 * [🤝 Project Team](team.md)
 * [🏗 Work Plan Updates](work-plan-updates.md)
 * [⁉ Frequently Asked Questions](<README (1).md>)
 * [📃 Rarity Catalogue](rarity-catalogue.md)
+* [👕 Merchandise](merchandise.md)
 
 ## 📜 Lore
 
@@ -36,17 +37,13 @@
 
 ## 💻 Development
 
+* [Mango Island](development/mango-island.md)
 * [Mango Markets](development/mango-markets/README.md)
   * [NFT Integration into Mango Markets](development/mango-markets/nft-integration-into-mango-markets.md)
   * [Mango Markets "Troll" Box](development/mango-markets/mango-markets-troll-box.md)
-* [Mango Bets](development/mango-bets.md)
+* [Betting](development/betting.md)
+* [Juiced.Social](development/juiced.social.md)
 * [Mango Heroes Dex](development/mango-heroes-dex.md)
-* [Zìyóu](development/ziyou/README.md)
-  * [The Casino](development/ziyou/the-casino/README.md)
-    * [Betting Mechanism](development/ziyou/the-casino/betting-mechanism.md)
-  * [The Boxing Ring](development/ziyou/the-boxing-ring.md)
-  * [The Basketball Court](development/ziyou/the-basketball-court.md)
-  * [Mango Island Development Journal](development/ziyou/mango-island-development-journal.md)
 
 ## 🤝 Collaboration
 
@@ -59,6 +56,12 @@
   * [🌊 Socean Finance](collaboration/defi-protocols/socean-finance.md)
   * [👨🍳 Marinade Finance](collaboration/defi-protocols/marinade-finance.md)
 
-***
+## Zìyóu
 
-* [👕 Merchandise](merchandise.md)
+* [✍ Development Journal](ziyou/development-journal.md)
+* [🏝 The Island Map](ziyou/the-island-map/README.md)
+  * [💰 The Casino](ziyou/the-island-map/the-casino/README.md)
+    * [Betting Mechanism](ziyou/the-island-map/the-casino/betting-mechanism.md)
+  * [🥊 The Boxing Ring](ziyou/the-island-map/the-boxing-ring.md)
+  * [🏀 The Basketball Court](ziyou/the-island-map/the-basketball-court.md)
+  * [🌊 Socean Mana Well](ziyou/the-island-map/socean-mana-well.md)
