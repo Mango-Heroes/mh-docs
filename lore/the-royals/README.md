@@ -2,5 +2,5 @@
 
 [queen-dasheri.md](queen-dasheri.md "mention")
 
-[king.md](king.md "mention")
+[king-oberon.md](king-oberon.md "mention")
 
