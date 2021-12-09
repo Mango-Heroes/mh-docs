@@ -18,7 +18,7 @@ Token Listing mSOL on Mango Markets Vote
 
 #### Concepts
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1).png>)![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 #### Final Chefs
 
@@ -28,7 +28,7 @@ Token Listing mSOL on Mango Markets Vote
 
 ![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 ![This one was given to https://twitter.com/aeyakovenko](<../../.gitbook/assets/image (10) (1) (1) (1).png>)
 

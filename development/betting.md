@@ -1,3 +1,3 @@
 # 🎲 Betting
 
-Coming Soon..
+Coming Soon...
