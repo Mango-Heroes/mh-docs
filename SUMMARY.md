@@ -3,7 +3,7 @@
 ## 🥭 Mango Heroes Project
 
 * [🥭 Mango Heroes](README.md)
-* [🗣 Our Socials](mango-heroes-project/our-socials.md)
+* [🗣 Links & Socials](mango-heroes-project/links-and-socials.md)
 * [🖨 Mint Info](mango-heroes-project/mint-info.md)
 * [🤝 Project Team](mango-heroes-project/project-team.md)
 * [🏗 Work Plan Updates](mango-heroes-project/work-plan-updates.md)

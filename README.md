@@ -8,8 +8,6 @@ description: >-
 
 ![](<.gitbook/assets/Untitled (1920 x 1080 px) (1).png>)
 
-
-
 The sole aim of the Mango Heroes Project in the beginning was to simply make Mango NFT art for the Mango Markets protocol.&#x20;
 
 That quickly morphed and evolved into something bigger, something more.
@@ -18,11 +16,7 @@ That quickly morphed and evolved into something bigger, something more.
 
 {% embed url="https://medium.com/mango-heroes/how-the-mango-heroes-project-was-born-full-transparency-87e53388bbc" %}
 
-I hope this documentation is able to capture as transparently as possible everything we've been working on. --Etsploit
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-The Mango Heroes project started as an idea this year in the wake of heavy regulation taking the freedom away from crypto traders to trade on centralized exchanges without completing KYC (Know Your Customer/Consumer). Out of this our community has seen several protocols crop up to fill the need for a decentralized leverage trading platform. On the Solana we have Mango Markets Protocol that allows you to leverage the speed and low transaction fees of the Solana Blockchain. You can find out more about Mango Markets here: [https://mango.markets/](https://mango.markets)
+The Mango Heroes project started as an idea this year in the wake of heavy regulation taking the freedom away from crypto traders to trade on centralized exchanges without completing KYC (Know Your Customer/Consumer). Out of this our greater crypto community has seen several protocols crop up to fill the need for a decentralized leverage trading platform. On Solana we have the Mango Markets Protocol that allows you to leverage (haha, get it?) the speed and low transaction fees of the Solana Blockchain. You can find out more about Mango Markets here: [https://mango.markets/](https://mango.markets)
 
 ### So what is a Mango Hero?
 

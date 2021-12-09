@@ -1,6 +1,8 @@
-# 🗣 Our Socials
+# 🗣 Links & Socials
 
 Main Website: [https://mangoheroes.com/](https://mangoheroes.com)
+
+Newsletter: [https://newsletter.mangoheroes.com/](https://newsletter.mangoheroes.com)
 
 Instagram: [https://www.instagram.com/mangoheroes.nft/](https://www.instagram.com/mangoheroes.nft/)
 
