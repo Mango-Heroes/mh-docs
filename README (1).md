@@ -11,3 +11,6 @@
 9. **Will the unminted supply be burnt?** No plans for this at this time.
 10. **Will Mango Heroes become a DAO?** No plans for this at this time.
 11. **Why are the Mango different colors?** They are magical beings.
+
+### Why doesn't my Mango Hero...look like a Hero?
+

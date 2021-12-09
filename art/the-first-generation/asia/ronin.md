@@ -6,4 +6,4 @@ description: '179'
 
 
 
-![](../../.gitbook/assets/mh6517.png)
+![](../../../.gitbook/assets/mh6517.png)

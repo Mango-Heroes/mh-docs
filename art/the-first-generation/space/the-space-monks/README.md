@@ -2,11 +2,11 @@
 description: 24 Space Monks
 ---
 
-# ✨ The Space Monks
+# 🌌 The Space Monks
 
 
 
-![](../../../.gitbook/assets/mh4613.png)
+![](../../../../.gitbook/assets/mh4613.png)
 
 ### Special Space Monk Air Drop
 
