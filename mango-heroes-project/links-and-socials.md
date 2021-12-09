@@ -12,3 +12,5 @@ Discord: [https://discord.gg/zCb3ADe8Je](https://discord.gg/zCb3ADe8Je)
 
 Facebook: [https://www.facebook.com/mangoheroes](https://www.facebook.com/mangoheroes)
 
+Youtube: [https://www.youtube.com/channel/UCMBzv72WPghF4xlqTKuZ0QA](https://www.youtube.com/channel/UCMBzv72WPghF4xlqTKuZ0QA)
+
