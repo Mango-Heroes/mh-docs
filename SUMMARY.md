@@ -39,6 +39,8 @@
 
 ## 💻 Development
 
+* [General Development](development/general-development.md)
+* [Solana Hackathon Submission](development/solana-hackathon-submission.md)
 * [🏝 Mango Island](development/mango-island.md)
 * [🥭 Mango Markets](development/mango-markets/README.md)
   * [🏆 Trading Competition Trophy](development/mango-markets/trading-competition-trophy.md)

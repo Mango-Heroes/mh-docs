@@ -22,5 +22,3 @@ I hope this documentation is able to capture as transparently as possible everyt
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Put comic here\*\*\*
-
