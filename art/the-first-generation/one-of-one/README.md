@@ -8,8 +8,8 @@
 [the-bosses.md](the-bosses.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-space-monks/" %}
-[the-space-monks](the-space-monks/)
+{% content-ref url="../the-space-monks.md" %}
+[the-space-monks.md](../the-space-monks.md)
 {% endcontent-ref %}
 
 {% content-ref url="the-comics.md" %}

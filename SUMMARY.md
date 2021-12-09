@@ -19,26 +19,30 @@
   * [👑 Queen Dasheri](lore/the-royals/queen-dasheri.md)
 * [👁🗨 The Seers](lore/the-seers.md)
 * [🐋 Hapu](lore/hapu.md)
+* [Coming Soon](lore/coming-soon.md)
 
 ## 🎨 Art
 
+* [🎖 Honorary Mangos](art/honorary-mangos.md)
 * [1⃣ The First Generation](art/the-first-generation/README.md)
+  * [The Space Monks](art/the-first-generation/the-space-monks.md)
+  * [Shinobi](art/the-first-generation/shinobi.md)
   * [Agents of M.A.N.G.O](art/the-first-generation/agents-of-m.a.n.g.o.md)
   * [Ronin](art/the-first-generation/ronin.md)
-  * [Honorary Mangos](art/the-first-generation/honorary-mangos.md)
   * [One of One](art/the-first-generation/one-of-one/README.md)
     * [The Golden Mango](art/the-first-generation/one-of-one/the-golden-mango.md)
     * [Travis D Collection](art/the-first-generation/one-of-one/travis-d-collection.md)
     * [The Bosses](art/the-first-generation/one-of-one/the-bosses.md)
     * [The Comics](art/the-first-generation/one-of-one/the-comics.md)
-    * [The Space Monks](art/the-first-generation/one-of-one/the-space-monks/README.md)
-      * [The Dark Lord](art/the-first-generation/one-of-one/the-space-monks/the-dark-lord.md)
+    * [The Dark Lord](art/the-first-generation/one-of-one/the-dark-lord.md)
 * [2⃣ The Champions](art/the-champions.md)
 
 ## 💻 Development
 
-* [Mango Island](development/mango-island.md)
-* [Mango Markets](development/mango-markets/README.md)
+* [🏝 Mango Island](development/mango-island.md)
+* [🥭 Mango Markets](development/mango-markets/README.md)
+  * [🏆 Trading Competition Trophy](development/mango-markets/trading-competition-trophy.md)
+  * [Accomplishment Badges](development/mango-markets/accomplishment-badges.md)
   * [NFT Integration into Mango Markets](development/mango-markets/nft-integration-into-mango-markets.md)
   * [Mango Markets "Troll" Box](development/mango-markets/mango-markets-troll-box.md)
 * [Betting](development/betting.md)
@@ -48,6 +52,7 @@
 ## 🤝 Collaboration
 
 * [NFT Collabs](collaboration/nft-collabs/README.md)
+  * [🧙♀ Sol Slimes](collaboration/nft-collabs/sol-slimes.md)
   * [🤖 Rumble Worlds](collaboration/nft-collabs/rumble-worlds.md)
   * [🦊 Famous Fox Federation](collaboration/nft-collabs/famous-fox-federation.md)
   * [🐟 Kaiju Cards](collaboration/nft-collabs/kaiju-cards.md)
