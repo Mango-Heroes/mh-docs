@@ -4,7 +4,7 @@ description: The Mango Whale
 
 # 🐋 Hapu
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 {% embed url="https://twitter.com/qtmoses/status/1456381230912614401?s=20" %}
 

@@ -4,8 +4,8 @@
 [travis-d-collection.md](travis-d-collection.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-bosses.md" %}
-[the-bosses.md](the-bosses.md)
+{% content-ref url="../m.a.n.g.o/the-bosses.md" %}
+[the-bosses.md](../m.a.n.g.o/the-bosses.md)
 {% endcontent-ref %}
 
 {% content-ref url="../the-space-monks.md" %}

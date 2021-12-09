@@ -1,2 +1,2 @@
-# Mango Bets
+# 🎲 Betting
 

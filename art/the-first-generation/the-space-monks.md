@@ -1,8 +1,10 @@
 ---
-description: '24'
+description: 24 Space Monks
 ---
 
-# The Space Monks
+# ✨ The Space Monks
+
+
 
 ![](../../.gitbook/assets/mh4613.png)
 

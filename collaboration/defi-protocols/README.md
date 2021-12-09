@@ -4,7 +4,7 @@ description: >-
   protocols on Solana
 ---
 
-# DeFi Protocols
+# 💸 DeFi Protocols
 
 Why is this even important to us?
 

@@ -1,2 +1,2 @@
-# Art
+# 🖼 NFT Collabs
 
