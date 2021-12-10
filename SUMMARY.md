@@ -158,6 +158,12 @@
 ## Zìyóu
 
 * [🕹 What is Zìyóu?](ziyou/what-is-ziyou.md)
+* [🗺 Roadmap](ziyou/roadmap/README.md)
+  * [Stage 1](ziyou/roadmap/stage-1.md)
+  * [Stage 2](ziyou/roadmap/stage-2.md)
+  * [Stage 3](ziyou/roadmap/stage-3.md)
+  * [Stage 4](ziyou/roadmap/stage-4.md)
+  * [Stage 5](ziyou/roadmap/stage-5.md)
 * [✍ Development Journal](ziyou/development-journal/README.md)
   * [✍ Island Building](ziyou/development-journal/island-building.md)
 * [🌃 Story Boarding](ziyou/story-boarding.md)
