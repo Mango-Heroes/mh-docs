@@ -28,8 +28,9 @@ We saw Mango Markets as this decentralized "hero" for the crypto community and t
 
 ### What are the main goals of the Mango Hero Project?
 
-1. Supporting Mango Markets by advocating and when possible building features that will promote it's growth and success
-2. Bridging the crypto trading community with the crypto NFT community to increase collaboration and community along these at times parallel lines
-3. Bring Mango Heroes to you as something that will be more than a JPEG in your wallet in 5 years. We are working diligently on building out an entire Mango Universe and associated applications.[\
-   ](https://cdn.mee6.xyz/guild-images/885649688022351873/ab17e039cfd4b67f8419d56f5b3f2293dd09e7b034ee34a2cb9c4c28b800bb07.png)
-
+1. Creating a PFP collection that is deep in variety but high in quality and just looks cool and different from other collections currently out there.
+2. Supporting Mango Markets by advocating and when possible building features that will promote it's growth, adoption, and success.
+3. Supporting the Solana Blockchain and its ecosystem by collaborating with other teams and protocols to achieve more together.
+4. Bridging the crypto trading community with the crypto NFT community to increase collaboration and community along these at times parallel groups.
+5. Bring Mango Heroes to holders as something that will be more than a JPEG in their wallet in 5 years but will have been the key (or gateway drug) to unlocking further experiences in crypto, NFTs, web3, DeFi, etc.
+6. Educating our Mango Hero holders on the opportunities for them in the future of DeFi to ultimately change their lives.
