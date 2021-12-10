@@ -14,6 +14,10 @@
 
 {% embed url="https://tbtbraintrust.medium.com/intro-to-the-brain-trust-7444088fccab" %}
 
+#### Impulse NFT
+
+{% embed url="http://impulsenft.io" %}
+
 ### Graphic Artists
 
 #### Dew
