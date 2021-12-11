@@ -165,6 +165,7 @@
   * [✍ Island Building](ziyou/development-journal/island-building.md)
 * [🌃 Story Boarding](ziyou/story-boarding.md)
 * [🏝 The Island Map](ziyou/the-island-map/README.md)
+  * [🧺 The Market](ziyou/the-island-map/the-market.md)
   * [💰 The Casino](ziyou/the-island-map/the-casino.md)
   * [🥊 The Boxing Ring](ziyou/the-island-map/the-boxing-ring.md)
   * [🏀 The Basketball Court](ziyou/the-island-map/the-basketball-court.md)
