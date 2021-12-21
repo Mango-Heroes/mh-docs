@@ -158,6 +158,7 @@
 ## Zìyóu
 
 * [🕹 What is Zìyóu?](ziyou/what-is-ziyou.md)
+* [🎶 Music](ziyou/music.md)
 * [🗺 Roadmap](ziyou/roadmap/README.md)
   * [Stage 1](ziyou/roadmap/stage-1.md)
   * [Stage 2](ziyou/roadmap/stage-2.md)
