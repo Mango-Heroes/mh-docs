@@ -4,19 +4,12 @@
 
 {% embed url="https://docs.google.com/document/d/1Qgvj3sjiR0Tr7rJDC0nEkK6xQ4zYoLdX8e65eHN7V-A/mobilebasic" %}
 
-{% embed url="https://twitter.com/paikcapital/status/1455915655761256463?s=21" %}
-
 {% embed url="https://medium.com/@cryptocreddy/technical-analysis-series-directional-bias-e5516b08f7d1" %}
 
-{% embed url="https://twitter.com/dougie_dee/status/1377000636768731141?s=21" %}
+```
+// <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Roadmap of starting in crypto with a small account: <a href="https://t.co/WGcGZqEpNM">pic.twitter.com/WGcGZqEpNM</a></p>&mdash; humble defi farmer 🔺 (@PaikCapital) <a href="https://twitter.com/PaikCapital/status/1455915655761256463?ref_src=twsrc%5Etfw">November 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% embed url="https://twitter.com/nyuuroe/status/1404810295051227138?s=21" %}
-
-{% embed url="https://twitter.com/therobotjames/status/1459991374854438912?s=21" %}
-
-{% embed url="https://twitter.com/solrisefinance/status/1460688258137047044?s=21" %}
-
-{% embed url="https://twitter.com/blknoiz06/status/1363498423828250626?s=21" %}
+```
 
 ### Crypto Watchlists&#x20;
 
