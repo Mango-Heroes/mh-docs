@@ -32,5 +32,5 @@ We saw Mango Markets as this decentralized "hero" for the crypto community and t
 2. Supporting Mango Markets by advocating and when possible building features that will promote it's growth, adoption, and success.
 3. Supporting the Solana Blockchain and its ecosystem by collaborating with other teams and protocols to achieve more together.
 4. Bridging the crypto trading community with the crypto NFT community to increase collaboration and community along these at times parallel groups.
-5. Bring Mango Heroes to holders as something that will be more than a JPEG in their wallet in 5 years but will have been the key (or gateway drug) to unlocking further experiences in crypto, NFTs, web3, DeFi, etc.
+5. Bring Mango Heroes to holders as something that will be more than a JPEG in their wallet in 5 years but will have been the key (or gateway drug so to speak) to unlocking further experiences in crypto, NFTs, web3, DeFi, etc.
 6. Educating our Mango Hero holders on the opportunities for them in the future of DeFi to ultimately change their lives.
