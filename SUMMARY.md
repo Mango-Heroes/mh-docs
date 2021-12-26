@@ -33,6 +33,7 @@
 
 ## 🎨 Art
 
+* [🖌 Art Concept Development](art/art-concept-development.md)
 * [🎖 Honorary Mangos](art/honorary-mangos.md)
 * [🤣 Mango Pepes](art/mango-pepes.md)
 * [1⃣ The First Generation](art/the-first-generation/README.md)

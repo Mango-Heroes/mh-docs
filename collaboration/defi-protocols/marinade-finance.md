@@ -18,7 +18,7 @@ Token Listing mSOL on Mango Markets Vote
 
 #### Concepts
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (9) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 #### Final Chefs
 
