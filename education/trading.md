@@ -6,11 +6,6 @@
 
 {% embed url="https://medium.com/@cryptocreddy/technical-analysis-series-directional-bias-e5516b08f7d1" %}
 
-```
-// <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Roadmap of starting in crypto with a small account: <a href="https://t.co/WGcGZqEpNM">pic.twitter.com/WGcGZqEpNM</a></p>&mdash; humble defi farmer 🔺 (@PaikCapital) <a href="https://twitter.com/PaikCapital/status/1455915655761256463?ref_src=twsrc%5Etfw">November 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-```
-
 ### Crypto Watchlists&#x20;
 
 All Perps: [https://www.tradingview.com/watchlists/25776268/](https://www.tradingview.com/watchlists/25776268/)&#x20;
@@ -28,6 +23,3 @@ Main pairs: [https://www.tradingview.com/watchlists/47485579/](https://www.tradi
 ### Crypto Tracker
 
 {% embed url="https://medium.com/coinmonks/track-your-cryptocurrency-assets-near-real-time-using-google-sheets-d76f80f20b16" %}
-
-
-
