@@ -18,13 +18,19 @@ That quickly morphed and evolved into something bigger, something more.
 
 This year, in the wake of heavy regulation taking the freedom away from crypto traders to trade on centralized exchanges without completing KYC (Know Your Customer/Consumer), several protocols cropped up to fill the need for a decentralized trading platform option.
 
+![](<.gitbook/assets/Untitled design (12).png>)
+
 On Solana, we have the **Mango Markets Protocol** that allows anyone to leverage (haha, get it?) the speed and low transaction fees of the Solana Blockchain. It also has and has been adding many of the familiar elements of more long standing centralized versions such as limit ordering, stop losses, and advanced charting features just to name a few.
 
 You can find out more about Mango Markets here: [https://mango.markets/](https://mango.markets)
 
+![](<.gitbook/assets/Untitled design (13).png>)
+
 ### So what is a Mango Hero?
 
 We saw Mango Markets as this decentralized "hero" for the crypto community and the first Mango Hero idea was born. Instead of creating something completely new and different we saw a rare opportunity to work alongside a budding and positive Solana project.&#x20;
+
+![](<.gitbook/assets/Untitled design (14).png>)
 
 ### What are the main goals of the Mango Hero Project?
 
