@@ -2,7 +2,7 @@
 
 ### Potential Concept Sketches
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ### 2D Variation
 
