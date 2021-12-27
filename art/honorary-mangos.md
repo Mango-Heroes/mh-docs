@@ -1,19 +1,19 @@
 # 🎖 Honorary Mangos
 
-{% embed url="https://twitter.com/MangoHeroes/status/1445358389459099655?s=20" %}
+### [Krypto Kaleo](https://twitter.com/CryptoKaleo)
 
-{% embed url="https://twitter.com/mangoheroes/status/1449128370873278467?s=21" %}
+![](../.gitbook/assets/Kaleo.png)
 
-{% embed url="https://twitter.com/mangoheroes/status/1449454700294770690?s=21" %}
+### [Ansem "Z"](https://twitter.com/blknoiz06)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1450611259280445444?s=20" %}
+![](<../.gitbook/assets/image (17).png>)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1452688341221138441?s=20" %}
+### [Stun](https://twitter.com/StunLikes)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1452777271434096641?s=20" %}
+![](<../.gitbook/assets/image (2).png>)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1452995105539952655?s=20" %}
+### [Shardi B](https://twitter.com/ShardiB2)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1457111601497186307?s=20" %}
+![](../.gitbook/assets/cardi\_B\_gif.gif)
 
-{% embed url="https://twitter.com/MangoHeroes/status/1463084707252482049?s=20" %}
+![](<../.gitbook/assets/image (3).png>)

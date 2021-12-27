@@ -10,4 +10,4 @@ Why aren't the assassins Bosses?
 
 
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
