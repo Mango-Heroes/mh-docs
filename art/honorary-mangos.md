@@ -16,4 +16,6 @@
 
 ![](../.gitbook/assets/cardi\_B\_gif.gif)
 
+### [Crypto DonAlt](https://twitter.com/CryptoDonAlt)
+
 ![](<../.gitbook/assets/image (3).png>)
