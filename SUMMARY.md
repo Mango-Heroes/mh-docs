@@ -171,3 +171,7 @@
   * [🥊 The Boxing Ring](ziyou/the-island-map/the-boxing-ring.md)
   * [🏀 The Basketball Court](ziyou/the-island-map/the-basketball-court.md)
   * [🌊 Socean Mana Well](ziyou/the-island-map/socean-mana-well.md)
+
+## Community
+
+* [Give-aways](community/give-aways.md)
