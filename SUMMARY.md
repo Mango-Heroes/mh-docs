@@ -142,7 +142,6 @@
   * [🗣 Mango Markets "Troll" Box](development/mango-markets-specific/mango-markets-troll-box.md)
 * [🎲 Betting](development/betting.md)
 * [🗣 Juiced.Social](development/juiced.social.md)
-* [♻ Mango Heroes Dex](development/mango-heroes-dex.md)
 
 ## 🤝 Collaboration
 
@@ -158,6 +157,7 @@
 
 ## Zìyóu
 
+* [📃 Ziyou Whitepaper](ziyou/ziyou-whitepaper.md)
 * [🕹 What is Zìyóu?](ziyou/what-is-ziyou.md)
 * [🎶 Music](ziyou/music.md)
 * [🗺 Roadmap](ziyou/roadmap/README.md)
@@ -175,3 +175,7 @@
 ## Community
 
 * [Give-aways](community/give-aways.md)
+
+## 🗄 Archived
+
+* [♻ Mango Heroes Dex](archived/mango-heroes-dex.md)
