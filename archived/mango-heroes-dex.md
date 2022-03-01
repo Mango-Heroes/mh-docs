@@ -4,4 +4,6 @@ description: Discontinued
 
 # ♻ Mango Heroes Dex
 
-The original idea for the Mango Heroes Dex was to run a Serum Dex GUI to support the decentralization of Serum and Solana and to possibly plug in liquidity to Mango Markets. Developments in the last few months have made this a much less valuable project to work on. With the reduction of fees voted by the Serum governnance voite
+The original idea for the Mango Heroes Dex was to run a Serum Dex GUI to support the decentralization of Serum and Solana and to possibly plug in liquidity to Mango Markets. Developments in the last few months have made this a much less valuable project to work on. With the reduction of fees voted by the Serum governance vote&#x20;
+
+{% embed url="https://forum.projectserum.com/t/proposed-serum-fee-reduction-proposal/166/38" %}
