@@ -2,7 +2,7 @@
 
 I saw the Mango Markets platform as a hero for the trading community and wanted to contribute.
 
-![](<../.gitbook/assets/image (15) (1) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 My younger sister helped me come up with some ideas...
 

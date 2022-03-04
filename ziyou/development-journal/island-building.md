@@ -2,7 +2,7 @@
 
 ### Initial Blender Concepts and Modeling
 
-![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (18) (1).png>)![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)![](<../../.gitbook/assets/image (18) (1).png>)![](<../../.gitbook/assets/image (15) (1).png>)
 
 ### Unity Scene and Stage Development
 

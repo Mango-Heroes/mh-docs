@@ -6,4 +6,4 @@ description: The 2nd Generation
 
 Coming Soon...
 
-![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
