@@ -1,6 +1,6 @@
 # 🌊 Socean Finance
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 {% embed url="https://www.socean.fi" %}
 
