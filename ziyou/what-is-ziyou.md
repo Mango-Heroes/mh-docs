@@ -12,4 +12,8 @@ How do you get into Mango Island? Any of the original 7000 Mango Heroes will ope
 
 Castor seeks to save his sister Polly with the help of the Mango Heroes.
 
-![](<../.gitbook/assets/image (12).png>)
+#### Blender Concepts of In-Game Fighting
+
+![](<../.gitbook/assets/image (13).png>)![](<../.gitbook/assets/image (12).png>)![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (16).png>)
+
+![](<../.gitbook/assets/image (14).png>)

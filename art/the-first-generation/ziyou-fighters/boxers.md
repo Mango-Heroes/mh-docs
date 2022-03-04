@@ -8,7 +8,7 @@ description: 180 Boxers in Original Mint
 
 ### 3D Modeling in Blender
 
-![](<../../../.gitbook/assets/image (13).png>)![](<../../../.gitbook/assets/image (14).png>)![](<../../../.gitbook/assets/image (9) (1).png>)
+![](<../../../.gitbook/assets/image (13) (1).png>)![](<../../../.gitbook/assets/image (14) (1).png>)![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Animation Tests
 
