@@ -167,6 +167,7 @@
 * [🗺 Roadmap](ziyou/roadmap/README.md)
   * [Stage 1](ziyou/roadmap/stage-1.md)
 * [✍ Development Journal](ziyou/development-journal/README.md)
+  * [🦾 Game Mechanics](ziyou/development-journal/game-mechanics.md)
   * [✍ Island Building](ziyou/development-journal/island-building.md)
 * [🌃 Story Boarding](ziyou/story-boarding.md)
 * [🏝 The Island Map](ziyou/the-island-map/README.md)
