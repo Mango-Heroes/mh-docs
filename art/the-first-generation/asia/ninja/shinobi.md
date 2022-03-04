@@ -8,7 +8,7 @@ description: 62 regular Shinobi + 1 solana shinobi
 
 ### 3D Modeling in Blender
 
-![](<../../../../.gitbook/assets/image (16) (1) (1).png>)![](<../../../../.gitbook/assets/image (7) (1).png>)![](<../../../../.gitbook/assets/image (15) (1) (1).png>)![](<../../../../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (16) (1) (1) (1).png>)![](<../../../../.gitbook/assets/image (7) (1).png>)![](<../../../../.gitbook/assets/image (15) (1) (1).png>)![](<../../../../.gitbook/assets/image (9).png>)
 
 ### 3D Game NPC Concept
 

@@ -6,4 +6,4 @@
 First appearance in Mango Verse
 {% endembed %}
 
-![](<../../.gitbook/assets/image (16) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (16) (1) (1) (1) (1).png>)
