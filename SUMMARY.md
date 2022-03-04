@@ -31,6 +31,10 @@
 * [🐋 Hapu](lore/hapu.md)
 * [🔜 Coming Soon](lore/coming-soon.md)
 
+***
+
+* [Page 1](page-1.md)
+
 ## 🎨 Art
 
 * [🖌 Art Concept Development](art/art-concept-development.md)
