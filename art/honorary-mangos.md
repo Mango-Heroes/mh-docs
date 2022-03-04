@@ -6,7 +6,7 @@
 
 ### [Ansem "Z"](https://twitter.com/blknoiz06)
 
-![](<../.gitbook/assets/image (17) (1).png>)
+![](<../.gitbook/assets/image (17) (1) (1).png>)
 
 ### [Stun](https://twitter.com/StunLikes)
 
@@ -18,5 +18,5 @@
 
 ### [Crypto DonAlt](https://twitter.com/CryptoDonAlt)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 

@@ -10,4 +10,4 @@ Check out Travis [https://twitter.com/Travisdartist](https://twitter.com/Travisd
 
 ![](../../.gitbook/assets/MH-Concept-Sheet.png)![](../../.gitbook/assets/MH-Concept-Halloween-r2.jpg)
 
-![](../../.gitbook/assets/mh6613.png)![](<../../.gitbook/assets/image (11) (1).png>)
+![](../../.gitbook/assets/mh6613.png)![](<../../.gitbook/assets/image (11) (1) (1).png>)
