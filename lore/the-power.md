@@ -10,4 +10,4 @@ If life imitates art, well magic amplifies it...
 
 {% embed url="https://medium.com/mango-heroes/the-island-mango-heroes-origin-story-27e7d31c204b" %}
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)

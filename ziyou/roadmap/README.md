@@ -1,6 +1,6 @@
 # 🗺 Roadmap
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 ### 2022 Q1
 
