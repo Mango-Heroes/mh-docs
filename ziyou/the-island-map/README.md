@@ -2,7 +2,7 @@
 
 ### Version 0.1
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 ### Version 0.2
 

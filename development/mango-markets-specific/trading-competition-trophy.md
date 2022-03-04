@@ -6,7 +6,7 @@
 
 ### 2D Variation
 
-![](<../../.gitbook/assets/image (12) (1).png>)![](<../../.gitbook/assets/image (14) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1).png>)![](<../../.gitbook/assets/image (14) (1) (1).png>)![](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 ### Full 3D Concept
 

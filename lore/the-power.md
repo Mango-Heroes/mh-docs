@@ -1,6 +1,6 @@
 # 🪄 The Power
 
-![](<../.gitbook/assets/image (12) (1) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 We sort of glossed over some details with this comic strip...
 
