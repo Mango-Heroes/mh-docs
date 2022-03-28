@@ -4,4 +4,4 @@
 
 ### 3D Modeling in Blender
 
-![](<../../../.gitbook/assets/image (19).png>)![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)![](<../../../.gitbook/assets/image (16).png>)

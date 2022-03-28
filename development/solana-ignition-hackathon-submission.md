@@ -5,6 +5,10 @@ description: >-
   the Mango Markets to create a community.
 ---
 
-# Solana Hackathon Submission
+# 👨💻 Solana Ignition Hackathon Submission
 
 {% embed url="https://devpost.com/software/mango-heroes" %}
+
+Unfortunately, the Mango Heroes integration was not accepted into the production Mango Markets code and this portion of the project is now archived.
+
+![](<../.gitbook/assets/image (19).png>)
