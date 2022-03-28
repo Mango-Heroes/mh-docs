@@ -9,10 +9,12 @@ description: >-
 
 {% embed url="https://devpost.com/software/mango-heroes" %}
 
+{% embed url="https://github.com/Mango-Heroes/mango-heroes-integration" %}
+
 Unfortunately, the Mango Heroes integration was not accepted into the production Mango Markets code and this portion of the project is now archived.
 
 ![](<../.gitbook/assets/image (19).png>)
 
-You can however designate any Metaplex NFT as your universal PFP for the Solana Blockchain.
+You can now however designate any Metaplex NFT as your universal PFP for the Solana Blockchain because of the Solrise/Solflare Profile Picture Support.
 
 ![](<../.gitbook/assets/image (20).png>)
