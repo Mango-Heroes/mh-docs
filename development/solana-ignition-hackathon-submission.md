@@ -12,3 +12,5 @@ description: >-
 Unfortunately, the Mango Heroes integration was not accepted into the production Mango Markets code and this portion of the project is now archived.
 
 ![](<../.gitbook/assets/image (19).png>)
+
+![](<../.gitbook/assets/image (20).png>)

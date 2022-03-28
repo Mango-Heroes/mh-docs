@@ -12,7 +12,7 @@
 
 ### 3D Modeling of 24 in Blender
 
-![](<../../../.gitbook/assets/image (20).png>)![](<../../../.gitbook/assets/image (17).png>)![](<../../../.gitbook/assets/image (3).png>)![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (20) (1).png>)![](<../../../.gitbook/assets/image (17).png>)![](<../../../.gitbook/assets/image (3).png>)![](<../../../.gitbook/assets/image (22).png>)
 
 
 
