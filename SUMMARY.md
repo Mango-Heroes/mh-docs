@@ -175,7 +175,7 @@
 
 ## Community
 
-* [Give-aways](community/give-aways.md)
+* [🎉 Give-Aways](community/give-aways.md)
 
 ## 🗄 Archived
 
