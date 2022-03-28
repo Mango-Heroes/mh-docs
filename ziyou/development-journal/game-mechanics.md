@@ -8,4 +8,4 @@ Started testing development thru Windows Executable clients
 
 ### Created Game Play Pause Screen
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
