@@ -13,4 +13,6 @@ Unfortunately, the Mango Heroes integration was not accepted into the production
 
 ![](<../.gitbook/assets/image (19).png>)
 
+You can however designate any Metaplex NFT as your universal PFP for the Solana Blockchain.
+
 ![](<../.gitbook/assets/image (20).png>)
