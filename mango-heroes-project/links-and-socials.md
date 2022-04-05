@@ -14,3 +14,5 @@ Facebook: [https://www.facebook.com/mangoheroes](https://www.facebook.com/mangoh
 
 Youtube: [https://www.youtube.com/channel/UCMBzv72WPghF4xlqTKuZ0QA](https://www.youtube.com/channel/UCMBzv72WPghF4xlqTKuZ0QA)
 
+Audius: [https://audius.co/mangoheroes](https://audius.co/mangoheroes)
+
