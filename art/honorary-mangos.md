@@ -22,4 +22,8 @@
 
 ### Moon Overlord
 
-![https://twitter.com/MoonOverlord](<../.gitbook/assets/moon overlord 2.png>)
+![](<../.gitbook/assets/moon overlord 2.png>)
+
+
+
+![https://twitter.com/alexisohanian](<../.gitbook/assets/Untitled design (36) (1).png>)
