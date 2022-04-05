@@ -27,9 +27,7 @@
 * [🟠 The Originals](lore/the-originals/README.md)
   * [🕵♂ Dunzai](lore/the-originals/dunzai.md)
   * [👑 The Royals](lore/the-originals/the-royals.md)
-* [👁🗨 The Seers](lore/the-seers.md)
 * [🐋 Hapu](lore/hapu.md)
-* [🔜 Coming Soon](lore/coming-soon.md)
 
 ## 🎨 Art
 
