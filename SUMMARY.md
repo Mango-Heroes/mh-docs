@@ -139,7 +139,6 @@
   * [👉 NFT Integration into Mango Markets](development/mango-markets-specific/nft-integration-into-mango-markets.md)
   * [🗣 Mango Markets "Troll" Box](development/mango-markets-specific/mango-markets-troll-box.md)
 * [🎲 Betting](development/betting.md)
-* [🗣 Juiced.Social](development/juiced.social.md)
 
 ## 🤝 Collaboration
 
